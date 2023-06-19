@@ -1,4 +1,9 @@
- Digite um numero: 
+n1 = int(input(" Digite um numero: "))
+n2 = int(input(" Digite um segundo numero: "))
+print("A soma é", n1, "+", n2, "=", n1+n2)
+
+Resultado:
+Digite um numero: 
 52
  Digite um segundo numero: 
 465
