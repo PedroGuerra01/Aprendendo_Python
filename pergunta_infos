@@ -1,3 +1,10 @@
+nome = input("qual seu nome?")
+idade = input("qual a sua idade?")
+peso = input("qual o seu peso?")
+time = input("qual time você torce?")
+print(nome, idade, peso, time)
+
+Resultado:
 qual seu nome?
 Pedro
 qual a sua idade?
