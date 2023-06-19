@@ -1,3 +1,7 @@
+nome = input("Qual o seu nome ? ")
+print("olá", nome + "!, Prazer em te conhecer")
+
+Resulado:
 Qual o seu nome ? 
 Pedro
 olá Pedro!, Prazer em te conhecer
