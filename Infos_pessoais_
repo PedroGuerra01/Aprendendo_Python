@@ -1,3 +1,10 @@
+nome = "Pedro Henrique Guerra"
+idade = "19"
+data = "11/07/2003"
+peso = "68,8"
+print(nome,idade,data,peso)
+
+Resultado:
 Pedro Henrique Guerra 19 11/07/2003 68,8
 
 
