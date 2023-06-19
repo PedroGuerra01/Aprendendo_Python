@@ -1,0 +1,12 @@
+Digite qualquer coisa:
+miojo
+miojo É do tipo primitivo <class 'str'>
+miojo Possui apenas números? False !
+miojo Possui apenas letras? True !
+miojo Possui letra ou número? True
+miojo Possuia apenas letras maiúsculas? False
+miojo Possui apenas letras minúsculas? True
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
