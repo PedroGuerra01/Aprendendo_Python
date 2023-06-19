@@ -1,3 +1,10 @@
+dia = input("Qual dia você nasceu ?")
+mes = input("Qual mês você nasceu ?")
+ano = input("Qual ano você nasceu ?")
+
+print('Você veio ao mundo no dia', dia, "de", mes, "de", ano, ",certo?")
+
+Resultado:
 Qual dia você nasceu ?
 03
 Qual mês você nasceu ?
